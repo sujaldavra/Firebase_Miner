@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73588027497",
+    "project_id": "author-registration-app-662d3",
+    "storage_bucket": "author-registration-app-662d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73588027497:android:fe8d130a982ad97108f2f8",
+        "android_client_info": {
+          "package_name": "com.sd.author_registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73588027497-9jjavgi6786aurfvgt4he1qmkefksia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89_hd4O158bcHa8_42hbiORmriC6m6tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73588027497-9jjavgi6786aurfvgt4he1qmkefksia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
